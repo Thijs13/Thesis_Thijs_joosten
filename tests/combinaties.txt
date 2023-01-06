@@ -1,0 +1,68 @@
+position =
+  .   .   .   .   .
+.   .   .   x   .  
+  .   .   .   .   .
+.   x   .   x   .  
+  .   .   .   .   .
+.   .   o   .   .  
+  .   o   .   .   .
+.   o   .   .   .  
+  .   .   .   .   .
+.   .   .   .   .   W
+expected_move = 28-22
+
+
+position =
+  .   .   .   .   .
+.   .   x   x   .  
+  .   .   .   .   .
+.   .   .   x   .  
+  .   .   .   .   .
+x   o   o   .   .  
+  .   o   .   .   .
+.   o   .   .   .  
+  .   .   .   .   .
+.   .   .   .   .   W
+expected_move = 27-21
+
+
+position =
+  .   .   .   .   .
+.   .   x   x   .  
+  .   .   .   .   .
+.   .   .   .   x  
+  .   .   .   .   .
+x   o   o   .   x  
+  .   .   .   .   .
+.   .   .   o   .  
+  .   .   o   .   .
+.   .   o   .   .   W
+expected_move = 27-21
+
+
+position =
+  .   .   .   .   .
+.   .   .   x   x  
+  .   .   .   .   .
+.   .   x   .   x  
+  .   .   .   .   .
+x   .   .   .   .  
+  .   .   .   .   o
+.   o   o   o   o  
+  .   .   .   .   .
+.   .   .   .   .   W
+expected_move = 37-31
+
+
+position =
+  .   .   .   .   .
+.   x   x   x   x  
+  .   .   .   .   .
+.   x   .   .   x  
+  .   .   .   .   .
+o   .   .   .   .  
+  .   .   .   .   o
+.   o   o   o   o  
+  .   .   .   .   .
+.   .   .   .   .   W
+expected_move = 26-21
